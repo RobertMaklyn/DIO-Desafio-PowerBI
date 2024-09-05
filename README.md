@@ -13,4 +13,4 @@ A terceira página, a qual vocês irão criar sozinhos, deve conter alguns visua
 
 ![imagem1](https://github.com/user-attachments/assets/34d04eaa-f586-421f-9f52-ce8ffaa45201)
 ![imagem2](https://github.com/user-attachments/assets/9ba090f4-bf12-4d1a-aaae-beaa8cd99c91)
-![imagem3](https://github.com/user-attachments/assets/96805dd9-f2dd-4279-89da-8fb49541f1d2)![imagem3](https://github.com/user-attachments/assets/96805dd9-f2dd-4279-89da-8fb49541f1d2)
+![imagem3](https://github.com/user-attachments/assets/96805dd9-f2dd-4279-89da-8fb49541f1d2)
